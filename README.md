@@ -33,7 +33,11 @@
   ![This is an image of the finished deployed application](./src/team-profile-pic.png)
   
   ## Live Demo
-  chrome-extension://mmeijimgabbpbgpdklnllpncmdofkcpn/app.html#/files/6dd8658f-d917-4737-y647-fc811e70b6e4
+  
+
+https://user-images.githubusercontent.com/84283930/168775799-153dba4e-61cc-49da-a118-c94c66513324.mp4
+
+
 
   ## Questions
   You can search for my repo on GitHub by entering Bungycode and you can view my projects at https://github.com/Bungycode. If you have any questions, please contact me at thedevandrew@gmail.com
